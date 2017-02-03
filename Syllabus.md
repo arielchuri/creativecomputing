@@ -37,97 +37,45 @@ Computers and billiard balls.
 Directories and the terminal   
 Intro to HTML   
 ### Week 02 01/30
-**Types & Roles of Research**   
-Lois Frankel - _The Complex Field of Research_   
-Steven Chaffee - _Explication_   
-**Assignment:** Explication   
 Javascript and programming primer   
 ### Week 03 02/06
-**Artifacts & Affordances**   
-Norman, Don: _The Design of Everyday Things, Chapter 1 + Chapter 2_   
-**Assignment:** Product Survey   
 CSS and styles   
 Code editors   
 Examining a webpage   
 Browser dev tools   
 ### Week 04 02/13
-**Context & Observation**   
-Norman, Don: _The Design of Everyday Things, Chapter 3_    
-Underhill, Paco: _Why We Buy_, Section 1: Instead of Samoa, Stores: The Science of Shopping   
-**Assignment:** Interface Mapping   
 Layout and type   
 Links, anchors, and images   
 pixels, em spaces, percentages   
 ### Week 05 02/27
-**Interview & Ethnography**   
-Lois Frankel - _Communicating Design Research Knowledge_   
-Underhill, Paco: _Why We Buy_, Section 2: Walk Like an Egyptian: The Mechanics of Shopping   
-IIT - What People Really Do [Video]   
-**Assignment:** Shopping Observation   
 File Transfer Protocol   
 Html file structure   
 ### Week 06 03/06
-**Analysis & Mapping**   
-Baty, Steve: _Deconstructing Analysis Techniques_   
-Corner, James _The Agency of Mapping_   
-This American Life -_Mapping_ [Podcast]   
-**Assignment:** Ritual Ethnography   
 External style sheets   
 CSS reset   
 Margins and padding   
 The box model   
 ### Week 07 03/13
-**Prototyping & Testing**   
-Tom Kelly - _Ten Faces of Innovation_, Chapter 2: The Experimenter   
-Terry Winograd - _Bringing Design to Software_, Chapter 10: Cultures of Prototyping (Michael Schrage)   
-**Assignment:** Ritual Mapping   
 jQuery   
 Comments and whitespace   
 arrays and strings   
 ### Week 08 03/27
-**Presentation & Critique**   
-**Assignment:** Ritual Redesign   
 DOM   
 ### Week 09 04/03
-**Scoping & Co-Design**   
-Liz Saunders - _Convivial Toolbox_, Chapter 3: How It Works: Generative Tools and Techniques   
-Gaver, William: _Cultural Probes and the Value of Uncertainty_   
-North Umbria University - _Design Collaboration [Website]   
-**Assignment:** Project Teams   
 Web design process and UX   
 ### Week 10 04/10
-**Complexity & Framing**   
-Liz Saunders - _Convivial Toolbox_, Chapter 5: Making the Plan   
-Jamer Hunt - _How to Apply Eames's "Powers of 10" to Real-life Problems_   
-[Universal Methods of Design] (http://site.ebrary.com.libproxy.newschool.edu/lib/newschool/detail.action?docID=10690608) 
-Jeremy Alexis - _What is Problem Framing in Design? [Video]   
-**Assignment:** Research Protocol   
 Responsive design   
 Libraries and frameworks   
 ### Week 11 04/17
-**Participation & Facilitation**   
-Liz Saunders - _Convivial Toolbox_ Chapter 6: Gathering Data In The Field   
-**Assignment:** Conduct Research   
 Final Project   
 ### Week 12 04/24
-**Fictions & Scenarios**   
-Grand, Simon: _Design Fiction, A Method Toolbox_   
-**Assignment:** Analyze Findings   
 Final Project   
 ### Week 13 05/01
-**Project Work & Review**   
-Mathan Ratinam - _Making an Engaging Presentation_ [Slides]   
-**Assignment:** Synthesize Findings   
 Final Project   
 ### Week 14 05/08
-**Presentation & Critique**   
-**Assignment:** Final Presentation   
 Final Project   
 ### Week 15 05/15
 Final Project Presentation   
-__Process & Reflection__   
-Donald Schon - _The Reflective Practitioner_, Chapter 5: The Structure of Reflection in Action   
-**Assignment:** Final Report   
 ## Required Reading / Media
 
 [How to / Why Make Internet Art](http://netart.rocks)
