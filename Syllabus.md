@@ -5,7 +5,6 @@ Communication Design Department
 **Web Design**
 6580 - PSAM 1028 - D   
 Spring 2017   
-6 East 16th Street #1108   
 
 Ariel Churi churia@newschool.edu   
 
