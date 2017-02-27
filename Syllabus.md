@@ -122,9 +122,10 @@ You should have received access to a folder on the newschool servers from IT ser
 
 To access this folder and upload your site:
 - Open the application _Terminal_ on your computer.
-- Navigate to the folder containing your site's folder using the *cd* command. example: cd Documents/school/creative\ computing/
+- Navigate to the folder containing your site's folder using the *cd* command. example: cd Documents/school/creative\ computing/mySiteFolder
 - You can check the contents of this folder with *ls* (list). The folder containg your site should be in this list of files and folders.
-- Next you will access the remote folder with _sftp_. sftp -P 222 yourUserName@b.parsons.edu.
+- Next you will access the remote folder with _sftp_. 
+    sftp -P 222 yourUserName@b.parsons.edu.
 - After entering your password you will be in the remote server. *ls* to list the contents of a folder. *cd public_html* to move into that folder.
 - Now create a folder to hold your site by typing _mkdir yourSiteFoler_
 - Move into the folder you created with _cd yourSiteFoler_
