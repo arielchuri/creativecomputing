@@ -32,50 +32,72 @@ Creative Computing is designed to introduce students to programming as a creativ
 - In-class Participation                20%
 
 ## Course Outline
+
 ### Week 01 01/23
 Computers and billiard balls.   
 Directories and the terminal   
 Intro to HTML   
+
 ### Week 02 01/30
 Javascript and programming primer   
+
 ### Week 03 02/06
 CSS and styles   
 Code editors   
-Examining a webpage   
+Examening a webpage   
 Browser dev tools   
+
 ### Week 04 02/13
 Layout and type   
 Links, anchors, and images   
 pixels, em spaces, percentages   
+
 ### Week 05 02/27
 File Transfer Protocol   
 Html file structure   
+
 ### Week 06 03/06
 External style sheets   
 CSS reset   
 Margins and padding   
 The box model   
+
 ### Week 07 03/13
 jQuery   
 Comments and whitespace   
 arrays and strings   
+
 ### Week 08 03/27
-DOM   
+No Class Today
+
+### Week 08 03/29
+1on1 Meetings
+Appointment link: <pending>
+Location: <pending>
+
 ### Week 09 04/03
+Review of Portfolio Site progress
 Web design process and UX   
+
 ### Week 10 04/10
 Responsive design   
 Libraries and frameworks   
+
 ### Week 11 04/17
 Final Project   
+
 ### Week 12 04/24
 Final Project   
+
 ### Week 13 05/01
 Final Project   
+
 ### Week 14 05/08
 Final Project   
+
 ### Week 15 05/15
 Final Project Presentation   
+
 ## Required Reading / Media
 
 [How to / Why Make Internet Art](http://netart.rocks)
@@ -149,6 +171,7 @@ The university provides many resources to help students achieve academic and art
 In keeping with the university’s policy of providing equal access for students with disabilities, any student with a disability who needs academic accommodations is welcome to meet with me privately. All conversations will be kept confidential. Students requesting any accommodations will also need to contact Student Disability Service (SDS). SDS will conduct an intake and, if appropriate, the Director will provide an academic accommodation notification letter for you to bring to me. At that point, I will review the letter with you and discuss these accommodations in relation to this course.
 
 ## Grading Standards
+
 ### Undergraduate
 A student’s final grades and GPA are calculated using a 4.0 scale. Please note that while both are listed here, the 4.0 scale does not align mathematically with the numeric scale based on percentages of 100 points.
 
