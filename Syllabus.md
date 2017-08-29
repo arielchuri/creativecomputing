@@ -40,8 +40,8 @@ Organizing Files
 Intro to HTML   
 
 ### Week 02 01/30
-Javascript and programming primer   
-
+hJavascript and programming primer   
+h
 ### Week 03 02/06
 CSS and styles   
 Code editors   
@@ -167,6 +167,9 @@ The university provides many resources to help students achieve academic and art
 
 - The University (and associated) Libraries: http://library.newschool.edu
 - The University Learning Center: http://www.newschool.edu/learning-center
+
+For additional help with coursework assigned during the semester, you are encouraged to schedule tutoring sessions at the University Learning Center (ULC). Individual appointments are offered in Writing (all levels), Math, Adobe, Computer Programming, Oral Presentations and Time Management. Sessions are interactive, with both tutor and student participating. Appointments can be scheduled on Starfish or you can stop by for a walk-in session. The ULC is located on the 6th floor of 66 West 12th street. Academic and skill-building workshops are also offered. For a complete list of services, workshops, and general information, visit www.newschool.edu/learning-center.
+
 - University Disabilities Service: http://www.newschool.edu/student-disability-services/
 
 In keeping with the university’s policy of providing equal access for students with disabilities, any student with a disability who needs academic accommodations is welcome to meet with me privately. All conversations will be kept confidential. Students requesting any accommodations will also need to contact Student Disability Service (SDS). SDS will conduct an intake and, if appropriate, the Director will provide an academic accommodation notification letter for you to bring to me. At that point, I will review the letter with you and discuss these accommodations in relation to this course.
