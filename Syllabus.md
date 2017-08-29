@@ -36,6 +36,7 @@ Creative Computing is designed to introduce students to programming as a creativ
 ### Week 01 01/23
 Computers and billiard balls.   
 Directories and the terminal   
+Organizing Files   
 Intro to HTML   
 
 ### Week 02 01/30
