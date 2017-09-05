@@ -40,8 +40,8 @@ Organizing Files
 Intro to HTML   
 
 ### Week 02 01/30
-hJavascript and programming primer   
-h
+Javascript and programming primer   
+
 ### Week 03 02/06
 CSS and styles   
 Code editors   
@@ -156,7 +156,7 @@ To access this folder and upload your site:
 
 
 ### Code Editors:
-
+Textwrangler
 [Brackets - A modern, open source code editor that understands web design.] (http://brackets.io/)
 [Atom] (https://atom.io/)
 [Bare Bones Software | BBEdit 11] (http://www.barebones.com/products/bbedit/)
