@@ -33,70 +33,75 @@ Creative Computing is designed to introduce students to programming as a creativ
 
 ## Course Outline
 
-### Week 01 01/23
+### Week 01    
 Computers and billiard balls.   
 Directories and the terminal   
 Organizing Files   
 Intro to HTML   
 
-### Week 02 01/30
-Javascript and programming primer   
+Assignment: Choose your own adventure
 
-### Week 03 02/06
+### Week 02    
+Cleaning text files   
+Intro to CSS
+
+Assignment: Short Story
+
+### Week 03    
 CSS and styles   
 Code editors   
 Examening a webpage   
 Browser dev tools   
 
-### Week 04 02/13
+### Week 04    
 Layout and type   
 Links, anchors, and images   
 pixels, em spaces, percentages   
 
-### Week 05 02/27
+### Week 05    
 File Transfer Protocol   
 Html file structure   
 
-### Week 06 03/06
+### Week 06    
 External style sheets   
 CSS reset   
 Margins and padding   
 The box model   
 
-### Week 07 03/13
+### Week 07    
 jQuery   
 Comments and whitespace   
 arrays and strings   
 
-### Week 08 03/27
+### Week 08    
 No Class Today
 
-### Week 08 03/29
+### Week 08    
 1on1 Meetings
 Appointment link: <pending>
 Location: <pending>
 
-### Week 09 04/03
+### Week 09    
 Review of Portfolio Site progress
 Web design process and UX   
 
-### Week 10 04/10
+### Week 10    
 Responsive design   
 Libraries and frameworks   
 
-### Week 11 04/17
+### Week 11    
 Final Project   
 
-### Week 12 04/24
+### Week 12    
 Final Project   
 
-### Week 13 05/01
+### Week 13    
 Final Project   
 
-### Week 14 05/08
+### Week 14    
 Final Project   
 
-### Week 15 05/15
+### Week 15    
 Final Project Presentation   
 
 ## Required Reading / Media
