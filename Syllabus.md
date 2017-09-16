@@ -175,10 +175,22 @@ The university provides many resources to help students achieve academic and art
 
 For additional help with coursework assigned during the semester, you are encouraged to schedule tutoring sessions at the University Learning Center (ULC). Individual appointments are offered in Writing (all levels), Math, Adobe, Computer Programming, Oral Presentations and Time Management. Sessions are interactive, with both tutor and student participating. Appointments can be scheduled on Starfish or you can stop by for a walk-in session. The ULC is located on the 6th floor of 66 West 12th street. Academic and skill-building workshops are also offered. For a complete list of services, workshops, and general information, visit www.newschool.edu/learning-center.
 
-- University Disabilities Service: http://www.newschool.edu/student-disability-services/
+- [University Disabilities Service] (http://www.newschool.edu/student-disability-services/)
 
 In keeping with the university’s policy of providing equal access for students with disabilities, any student with a disability who needs academic accommodations is welcome to meet with me privately. All conversations will be kept confidential. Students requesting any accommodations will also need to contact Student Disability Service (SDS). SDS will conduct an intake and, if appropriate, the Director will provide an academic accommodation notification letter for you to bring to me. At that point, I will review the letter with you and discuss these accommodations in relation to this course.
 
+- Making Center
+
+Faculty who are planning curriculum that makes use of specific resources should contact the Making Center in
+advance to coordinate.
+The Making Center is a constellation of shops, labs, and open workspaces that are situated across the New
+School to help students express their ideas in a variety of materials and methods. We have resources to help
+support woodworking, metalworking, ceramics and pottery work, photography and film, textiles, printmaking,
+3D printing, manual and CNC machining, and more. A staff of technicians and student workers provide expertise
+and maintain the different shops and labs. Safety is a primary concern, so each area has policies for access,
+training, and etiquette that students and faculty should be familiar with. Many areas require specific
+orientations or trainings before access is granted. Detailed information about the resources available, as well as
+schedules, trainings, and policies can be found at [resources.parsons.edu] (http://resources.parsons.edu).
 ## Grading Standards
 
 ### Undergraduate
