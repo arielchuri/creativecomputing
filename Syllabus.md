@@ -2,9 +2,9 @@
 Parsons School of Design   
 Communication Design Department   
 
-**Web Design**
-6580 - PSAM 1028 - D   
-Spring 2017   
+**Creative Computing**
+2035 - PUCD - D   
+Fall 2017   
 
 Ariel Churi churia@newschool.edu   
 
@@ -43,6 +43,7 @@ Assignment: Choose your own adventure
 
 ### Week 02    
 Cleaning text files   
+Links, anchors, and images   
 Intro to CSS
 
 Assignment: Short Story
@@ -53,10 +54,14 @@ Code editors
 Examening a webpage   
 Browser dev tools   
 
+Assignment: StyleGuide Check-in
+
 ### Week 04    
 Layout and type   
-Links, anchors, and images   
 pixels, em spaces, percentages   
+
+Assignment: StyleGuide
+Assignment: Processing Experiment
 
 ### Week 05    
 File Transfer Protocol   
