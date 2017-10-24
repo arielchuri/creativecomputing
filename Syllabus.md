@@ -38,6 +38,7 @@ Computers and billiard balls.
 Directories and the terminal   
 Organizing Files   
 Intro to HTML   
+Html file structure   
 
 Assignment: Choose your own adventure
 
@@ -49,37 +50,43 @@ Intro to CSS
 Assignment: Short Story
 
 ### Week 03    
-CSS and styles   
+CSS and styles
 Code editors   
 Examening a webpage   
 Browser dev tools   
+Layout and type   
+pixels, em spaces, percentages   
 
 Assignment: StyleGuide Check-in
 
 ### Week 04    
-Layout and type   
-pixels, em spaces, percentages   
+Programming basics (Processing)
+Variables
 
 Assignment: StyleGuide
-Assignment: Processing Experiment
+Assignment: Processing Experiment (2 weeks)
 
 ### Week 05    
-File Transfer Protocol   
-Html file structure   
+If statements
+Comments and whitespace   
+For loops
 
 ### Week 06    
 External style sheets   
 CSS reset   
 Margins and padding   
 The box model   
+arrays and strings   
+File Transfer Protocol   
+Assignment: Processing Final Project
 
 ### Week 07    
-jQuery   
-Comments and whitespace   
-arrays and strings   
+Javascript and the web
 
 ### Week 08    
 No Class Today
+
+jQuery   
 
 ### Week 08    
 1on1 Meetings
@@ -149,6 +156,16 @@ Final Project Presentation
 [Javascript Reference] ( https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference )
 
 [Get Started with the Google Fontns API] (https://developers.google.com/fonts/docs/getting_started)
+
+[Introduction to jQuery] (https://www.edx.org/course/introduction-jquery-microsoft-dev208x-3)
+
+[Interactivity with JavaScript | Coursera](https://www.coursera.org/learn/javascript#%20)
+
+[HTML, CSS, and Javascript for Web Developers | Coursera](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
+
+[Full Stack Web and Multiplatform Mobile App Development | Coursera](https://www.coursera.org/specializations/full-stack-mobile-app-development)
+
+[Intro to JavaScript | Udacity](https://www.udacity.com/course/intro-to-javascript--ud803)
 
 ### FTP ( File Transfer Protocol )
 You should have received access to a folder on the newschool servers from IT services. If not you will need to get that information from them. Inside this folder (also known as a directory) is another folder named *public_html*. This folder is viewable online at the address you have received.
