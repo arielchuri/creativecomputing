@@ -26,8 +26,6 @@ document.getElementById("navMenu").innerHTML =
     '<li class="nav"><a href="about.html">About</a></li>'+
     '</ul>';
 // Most of these lines store locations in the document that we can access later. Read them and try to find what they are pointing to in the html.
-var myElement = document.getElementById("myElement");
-var myListItems = document.getElementByTagName("li");
 console.log("child nodes of Aside: ", myItems.childNodes.length);
 var myAsideItems = document.getElementById("aside");
 var myAsideList = myAsideItems.getElementsByTagName("li");

@@ -13,9 +13,6 @@ myHeadline.onclick = function() {
     myHeadline.style.color = "#ff0000";
     myHeadline.style.backgroundColor = "#000000";
 }
-
-
-
 window.onload = function(){
     //this function will run after the page has finished loading.
     console.log("Page has loaded.")
