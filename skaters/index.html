@@ -1,0 +1,43 @@
+
+<!DOCTYPE HTML>
+<html lang="en">
+	  <head>
+		    <meta charset="utf-8">
+		    <meta name="description" content="A page for exploring basic HTML documents">
+		    <title>HTML Document</title>
+		    <link rel="stylesheet" type="text/css" href="styles.css">
+		    <style>
+.mySlides {display:none;}
+			</style>
+	  </head>
+	  <body>
+		    <header>
+            <nav id="navMenu"></nav>
+           <div class="slide_show" style="max-width:550px">
+  					<img class="mySlides" src="slide_show_1.jpg" style="width:200%">
+  					<!-- https://i.pinimg.com/originals/c8/ac/06/c8ac068f085546fef10d6ff4518448b2.jpg --!>
+  					<img class="mySlides" src="slide_show_2.jpg" style="width:200%">
+  					<img class="mySlides" src="slide_show_3.jpg" style="width:200%">
+  					<img class="mySlides" src="slide_show_4.jpg" style="width:200%">
+  					<!-- https://i.ytimg.com/vi/4GFIXrybfKg/maxresdefault.jpg -->
+			</div>
+		    </header>
+		    <script src="myscript.js"> </script>
+		    <script>
+			var myIndex = 0;
+			carousel();
+
+			function carousel() {
+   			var i;
+    		var x = document.getElementsByClassName("mySlides");
+    		for (i = 0; i < x.length; i++) {
+      		 x[i].style.display = "none";  
+    		}
+   			 myIndex++;
+    			if (myIndex > x.length) {myIndex = 1}    
+    			x[myIndex-1].style.display = "block";  
+    			setTimeout(carousel, 3000); // Change image every 2 seconds
+			}
+		    </script>
+	  </body>
+</html>
