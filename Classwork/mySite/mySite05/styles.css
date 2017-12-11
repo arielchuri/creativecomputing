@@ -112,3 +112,7 @@ input[type=checkbox]:checked ~ #menu{
 nav {
     height: 6em;
 }
+
+.thumb {
+    width:160px;   
+}
