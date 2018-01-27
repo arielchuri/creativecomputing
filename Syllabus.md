@@ -34,7 +34,6 @@ Creative Computing is designed to introduce students to programming as a creativ
 ## Course Outline
 
 ### Week 01    
-Computers and billiard balls.   
 Directories and the terminal   
 Organizing Files   
 Intro to HTML   
@@ -117,6 +116,8 @@ Final Project
 Final Project Presentation   
 
 ## Required Reading / Media
+
+[freeCodeCamp] ( https://www.freecodecamp.org/challenges/say-hello-to-html-elements )
 
 [How to / Why Make Internet Art](http://netart.rocks)
 
