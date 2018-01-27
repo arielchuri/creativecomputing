@@ -1,0 +1,14 @@
+- ls
+- cd
+- mv
+- rm
+- mkdir
+- .
+- ..
+- nano
+- rmdir
+
+- echo
+- CTRL - c
+- cat
+- lolcat
