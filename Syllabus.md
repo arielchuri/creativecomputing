@@ -119,7 +119,6 @@ Final Project Presentation
 
 ## Required Reading / Media
 
-[freeCodeCamp] ( https://www.freecodecamp.org/challenges/say-hello-to-html-elements )
 
 [How to / Why Make Internet Art](http://netart.rocks)
 
@@ -143,6 +142,8 @@ Final Project Presentation
 -Access to your FTP server.
 
 ## Class Resources
+[W3 Schools] (http://www.w3schools.com/)
+[freeCodeCamp] ( https://www.freecodecamp.org/challenges/say-hello-to-html-elements )
 
 [Unix for Mac Users] (https://www.lynda.com/Mac-OS-X-10-6-tutorials/Unix-for-Mac-OS-X-Users/78546-2.html)
 
@@ -150,7 +151,6 @@ Final Project Presentation
 
 [Git on Lynda.com) (https://www.lynda.com/GitHub-training-tutorials/1384-0.html)
 
-[W3 Schools] (http://www.w3schools.com/)
 
 [Special Characters] (http://www.w3schools.com/charsets/ref_utf_latin1_supplement.asp)
 
