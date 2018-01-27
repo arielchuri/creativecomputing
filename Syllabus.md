@@ -38,8 +38,10 @@ Directories and the terminal
 Organizing Files   
 Intro to HTML   
 Html file structure   
+
 **Assignment:**
 Choose your own adventure
+
 **Media:**
 [*What is Code?*, Paul Ford] (http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 [freeCodeCamp] ( https://www.freecodecamp.org/challenges/say-hello-to-html-elements )
@@ -142,7 +144,9 @@ Final Project Presentation
 -Access to your FTP server.
 
 ## Class Resources
+
 [W3 Schools] (http://www.w3schools.com/)
+
 [freeCodeCamp] ( https://www.freecodecamp.org/challenges/say-hello-to-html-elements )
 
 [Unix for Mac Users] (https://www.lynda.com/Mac-OS-X-10-6-tutorials/Unix-for-Mac-OS-X-Users/78546-2.html)
