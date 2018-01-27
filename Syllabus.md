@@ -43,8 +43,11 @@ Html file structure
 Choose your own adventure
 
 **Media:**
+
 [*What is Code?*, Paul Ford] (http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
+
 [freeCodeCamp] ( https://www.freecodecamp.org/challenges/say-hello-to-html-elements )
+
 ### Week 02    
 Cleaning text files   
 Links, anchors, and images   
