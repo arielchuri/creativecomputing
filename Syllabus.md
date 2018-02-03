@@ -2,9 +2,9 @@
 Parsons School of Design   
 Communication Design Department   
 
-**Creative Computing**
-2035 - PUCD - D   
-Fall 2017   
+**Web Design**
+1028 - PSAM - D   
+Spring 2018   
 
 Ariel Churi churia@newschool.edu   
 
@@ -227,6 +227,7 @@ and maintain the different shops and labs. Safety is a primary concern, so each 
 training, and etiquette that students and faculty should be familiar with. Many areas require specific
 orientations or trainings before access is granted. Detailed information about the resources available, as well as
 schedules, trainings, and policies can be found at [resources.parsons.edu] (http://resources.parsons.edu).
+
 ## Grading Standards
 
 ### Undergraduate
