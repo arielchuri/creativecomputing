@@ -1,7 +1,28 @@
 html{
-	background:cyan;
+    /* background:cyan; */
 }
 body{
-	background:magenta;
-	width:80%;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;  
+    background:ghostwhite;
+    width:50%;
+    padding: 0px;
+    margin: 0px;
+}
+div{
+}
+.header {
+    padding: 24px;
+    background:lightgray;
+}
+.footer {
+    padding: 24px;
+    background:lightgray;
+}
+.aside {
+    padding: 24px;
+    background:#aaaaaa;
+}
+.article {
+    padding: 24px;
+    background:#cccccc;
 }

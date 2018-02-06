@@ -4,8 +4,7 @@
         <meta charset="utf-8">
         <meta name="description" content="Style guide for Sparkle Labs">
         <title>Type Specimen</title>
-        <script src="https://use.typekit.net/lsl0dlv.js"></script>
-        <script>try{Typekit.load({ async: true });}catch(e){}</script>
+       <link rel="stylesheet" type="text/css" href="./ibmtype.css"> 
         <!-- CSS Reset -->
         <style>
          html, body, div, span, applet, object, iframe,
@@ -49,6 +48,7 @@
              border-spacing: 0;
          }
          /* End CSS Reset */
+
          .Black { color:#000000 }
          .Grey4 { color:#3C3C3C }
          .Grey3 { color:#4D4D4D }
@@ -65,91 +65,116 @@
          .Violet { color:#9636F8 }
          .Indigo { color:#2E9EF5 }
          .Aqua { color:#34C8B6 }
+
          body {
              color:#4d4d4d;
-             font-size: 100%;
-             font-family: 'nimbus-sans', serif;
+  font-family: 'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif;
+    font-size: .9rem;
+  font-weight: 300;
+  line-height: 1.5rem;
              width: 1200px;
              margin: auto;
              margin-top:80px;
              text-align: justify;
-             line-height: 1.5em;
-             font-weight:300;
          }
+
          p {
-             margin-bottom: 1.2em;
              color: #7f7f7f;
              color: inherit;
+             margin-bottom: 1.4rem;
          }
+
          .tags {
-             font-family:nimbus-sans-condensed;
-             font-weight:700;
-             font-size:1.1em;
+/*              font-family:nimbus-sans-condensed; */
+             font-weight:600;
+             font-size:.9rem;
          }
          .bigtags {
-             font-family:nimbus-sans-condensed;
-             font-weight:700;
-             font-size:1.4em;
+/*              font-family:nimbus-sans-condensed; */
+             font-weight:600;
+             font-size:1.2em;
              vertical-align:bottom;
          }
+
          .smalltext {
              font-size:.92em;
              line-height:1.3em;
+             font-weight:400;
          }
+         .notetext {
+             color:#bfbfbf;
+             font-weight:600;
+         }
+
          .articleheadline {
              margin-bottom:.6em;
          }
+
          h1 {
-             font-size: 1.9em;
-             font-weight:700;
+             font-size: 2.2em;
+             font-weight:600;
              margin-bottom:.3em;
          }
+
          h2 {
-             font-size: 1.7em;
-             font-weight:400;
-             margin-bottom:.3em;
+             font-size: 1.8em;
+             font-weight:600;
+             margin-bottom: 1.4rem;
          }
          h3 {
              font-size: 1.4em;
-             font-weight:400;
+             font-weight:600;
              margin-bottom:.3em;
          }
          /* Item Title */
          h4 {
-             font-size:1.1em;
-             font-weight:400;
+             font-size:1.1rem;
+             font-weight:600;
              margin-bottom:.3em;
          }
+         .quote {
+            margin-bottom:1.4rem;
+            line-height:2.1rem;
+         }
+
          /* paragraph header */
          h5 {
-             font-weight:400;
+             font-weight:600;
+             margin-bottom: 1.4rem;
          }
          h6 {
              font-weight:300;
-             font-size:2em;
+             font-size:3em;
              margin-bottom:.3em;
          }
+
+
          h1.subhead {
              font-size: 1.2em;
          }
+
          h2.headerlinks {
              font-size: 1em;
-             font-weight:400;
+             font-weight:600;
          }
+
          a {
              font-style: underline;
              color:#2E9EF5;
          }
+
          a:visited {
              font-style: underline;
              color:#9636F8;
          }
+
          a:hover {
              font-style: underline;
              color:#FB3C8B;
          }
+
          strong, b {
-             font-weight:400;
+             font-weight:600;
              color: #4d4d4d;
          }
          em, i {
@@ -157,14 +182,27 @@
              color: #3c3c3c;
          }
          .price {
-             font-weight:700;
+             font-weight:600;
              color:#FB3C8B;
-             font-size:2em;
+             font-size:2.2rem;
          }
+
          .saleprice {
              text-decoration:line-through;
              color:#bfbfbf;
          }
+         pre.code {
+         background:#f1f1f1;
+  font-family: 'IBM Plex Mono', 'Menlo', 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', Courier, monospace;
+  padding: 2rem;
+  font-weight:600;
+         }
+         .codecomment {
+         font-weight:400;
+         font-style: italic;
+         color:#7F7F7F;
+         }
+
          blockquote {
              font-style: italic;
              font-size: 1em;
@@ -172,41 +210,51 @@
              margin: 0 8%;
              color: rgb(128,128,128);
          }
+
          .vspacer {
              height:40px;
          }
+
          #shopcolumn {
              margin-right:40px;
          }
+
          .flex-container {
              display: -webkit-flex;
              display: flex;
              width: 100%;
          }
+
          .flex-item4 {
              width: 25%;
          }
+
          .flex-item3 {
              width: 33%;
          }
+
          .flex-item2 {
              width: 50%;
          }
+
          .flex-item1 {
              width: 100%;
          }
          .flex-gutter {
              width:40px;
          }
+
          .image {
              background:#EBEBEB;
              margin-top:20px;
              margin-bottom:20px;
          }
+
          .key {
              color: red;
              font-weight: normal;
          }
+
         </style>
     </head>
     <body>
@@ -331,7 +379,7 @@
             <div class="flex-item1" style="text-align:center">
                 <div class="vspacer"></div>
                 <div  class="Indigo">
-                    <h6>The Most Approachable Kits Out There</h6>
+                    <h1>The Most Approachable Kits Out There</h1>
                     <p>Designed by educators and designers. Used by K-12 schools, universities, artists, engineers,<br> vocational schools, and more.</p>
                 </div>
             </div>
@@ -341,7 +389,7 @@
         <div class="vspacer"></div>
         <div class="flex-container">
             <div class="flex-item" style="width:10%">
-                <span class="smalltext">
+                <span class="notetext">
                     Good for:
                 </span>
                 <div class="tags">
@@ -349,7 +397,7 @@
                 </div>
             </div>
             <div class="flex-item" style="width:55%">
-                <h4>"Like the old Radio Shack spring circuits but updated with modern teaching styles."</h4>
+                <h4 class="quote">"Like the old Radio Shack spring circuits but updated with modern teaching styles."</h4>
                 <p>This is a standard paragraph. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <strong>Ut enim ad minim veniam</strong>, quis nostrud exercitation ullamco laboris nisi ut <a href="http://mdn.com">aliquip</a> ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat <em>cupidatat non proident</em>, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, <em>sed do eiusmod tempor incididunt ut labore et dolore magna </em>aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo <strong>consequat</strong>. Duis aute irure dolor in <a href="http://sparklelabs.com">reprehenderit in voluptate</a> velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
             </div>
@@ -404,23 +452,39 @@
         <div class="vspacer"></div>
         <div class="vspacer"></div>
         <div class="flex-container" style="color:#ffffff">
-            <div style="background:#fb3c8b;height:80px;width:80px">#FB3C8B </div>
-            <div style="background:#ff0063;height:80px;width:80px">#FF0063 </div>
-            <div style="background:#eb4848;height:80px;width:80px">#eb4848 </div>
-            <div style="background:#ff9600;height:80px;width:80px">#ff9600 </div>
-            <div style="background:#ffd400;height:80px;width:80px">#ffd400 </div>
-            <div style="background:#f0ff00;height:80px;width:80px">#f0ff00 </div>
-            <div style="background:#aff000;height:80px;width:80px">#aff000 </div>
-            <div style="background:#1fd900;height:80px;width:80px">#1fd900 </div>
-            <div style="background:#34C8B6;height:80px;width:80px">#34C8B6 </div>
-            <div style="background:#2e9ef5;height:80px;width:80px">#2e9ef5 </div>
-            <div style="background:#9636f8;height:80px;width:80px">#9636f8 </div>
-            <div style="background:#bfbfbf;height:80px;width:80px">#bfbfbf </div>
-            <div style="background:#7f7f7f;height:80px;width:80px">#7f7f7f </div>
-            <div style="background:#4d4d4d;height:80px;width:80px">#4d4d4d </div>
-            <div style="background:#3c3c3c;height:80px;width:80px">#3c3c3c </div>
+            <div style="background:#fb3c8b;height:80px;width:80px">#FB3C8B Hotpink</div>
+            <div style="background:#ff0063;height:80px;width:80px">#FF0063 Dragonfruit</div>
+            <div style="background:#eb4848;height:80px;width:80px">#eb4848 Fire</div>
+            <div style="background:#ff9600;height:80px;width:80px">#ff9600 Orange</div>
+            <div style="background:#ffd400;height:80px;width:80px">#ffd400 Gold</div>
+            <div style="background:#f0ff00;height:80px;width:80px">#f0ff00 Yellow</div>
+            <div style="background:#aff000;height:80px;width:80px">#aff000 Chartuese</div>
+            <div style="background:#1fd900;height:80px;width:80px">#1fd900 Green</div>
+            <div style="background:#34C8B6;height:80px;width:80px">#34C8B6 Aqua</div>
+            <div style="background:#2e9ef5;height:80px;width:80px">#2e9ef5 Indigo</div>
+            <div style="background:#9636f8;height:80px;width:80px">#9636f8 Violet</div>
+            <div style="background:#bfbfbf;height:80px;width:80px">#bfbfbf Grey1</div>
+            <div style="background:#7f7f7f;height:80px;width:80px">#7f7f7f Grey2</div>
+            <div style="background:#4d4d4d;height:80px;width:80px">#4d4d4d Grey3</div>
+            <div style="background:#3c3c3c;height:80px;width:80px">#3c3c3c Black </div>
         </div>
+
         <div class="vspacer"></div>
+        <div>
+        <pre class="code">
+<span class="codecomment">/*
+Blink
+Turns on LED for one
+*/</span>
+
+<span class="codecomment">// The setup function runs once</span>
+<span class="Fire">void setup</span>() {
+<span class="codecomment">// initialize digital pin LED</span>
+    pinMode(LED_BUILTIN, <span class="Indigo">OUTPUT</span>);
+}</pre>
+        <div class="vspacer"></div>
+<pre>        ----------------TESTING BELOW--------------------   </pre>
+        </div>
         <div class="flex-container" id="Waterfall">
             <div class="flex-item2">
                 <p style="color:#4d4d4d;font-weight:300">
@@ -463,17 +527,17 @@
                     ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
                     abcdefghijklmnopqrstuvwxyz
                 </p>
-                <p style="color:#4d4d4d;font-weight:400;font-family:nimbus-sans-condensed">
+                <p style="color:#4d4d4d;font-weight:400">
                     400 Regular Condensed<br>
                     ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
                     abcdefghijklmnopqrstuvwxyz
                 </p>
-                <p style="color:#4d4d4d;font-weight:700;font-family:nimbus-sans-condensed">
+                <p style="color:#4d4d4d;font-weight:700">
                     700 Bold Condensed<br>
                     ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
                     abcdefghijklmnopqrstuvwxyz
                 </p>
-                <p style="color:#4d4d4d;font-weight:900;font-family:nimbus-sans-condensed">
+                <p style="color:#4d4d4d;font-weight:900">
                     900 Black Condensed<br>
                     ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
                     abcdefghijklmnopqrstuvwxyz
@@ -520,17 +584,17 @@
                     ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
                     abcdefghijklmnopqrstuvwxyz
                 </p>
-                <p style="color:#4d4d4d;font-weight:400;font-family:nimbus-sans-condensed">
+                <p style="color:#4d4d4d;font-weight:400">
                     400 Regular Condensed<br>
                     ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
                     abcdefghijklmnopqrstuvwxyz
                 </p>
-                <p style="color:#4d4d4d;font-weight:700;font-family:nimbus-sans-condensed">
+                <p style="color:#4d4d4d;font-weight:700">
                     700 Bold Condensed<br>
                     ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
                     abcdefghijklmnopqrstuvwxyz
                 </p>
-                <p style="color:#4d4d4d;font-weight:900;font-family:nimbus-sans-condensed">
+                <p style="color:#4d4d4d;font-weight:900">
                     900 Black Condensed<br>
                     ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
                     abcdefghijklmnopqrstuvwxyz
