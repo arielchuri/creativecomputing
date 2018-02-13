@@ -26,3 +26,26 @@ footer, header, hgroup, menu, nav, section {
 }
 /* End CSS Reset code */
 /* Begin My Css */
+body {
+    font-family: 'Barlow', sans-serif;
+    font-size:48px;
+    margin:48px;
+}
+h1 {
+    font-weight:900;
+}
+h2 {
+    font-weight:800;
+}
+h3 {
+    font-weight:700;
+}
+h4 {
+    font-weight:600;
+}
+h5 {
+    font-weight:200;
+}
+h6 {
+    font-weight:100;
+}
