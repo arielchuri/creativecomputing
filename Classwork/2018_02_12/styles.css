@@ -28,8 +28,11 @@ footer, header, hgroup, menu, nav, section {
 /* Begin My Css */
 body {
     font-family: 'Barlow', sans-serif;
-    font-size:48px;
-    margin:48px;
+    font-size:1rem;
+    margin:4rem;
+}
+div {
+    margin-bottom:4rem;
 }
 h1 {
     font-weight:900;
