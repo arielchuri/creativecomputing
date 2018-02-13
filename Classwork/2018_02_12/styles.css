@@ -30,6 +30,7 @@ body {
     font-family: 'Barlow', sans-serif;
     font-size:1rem;
     margin:4rem;
+    width:1200px;
 }
 div {
     margin-bottom:4rem;
@@ -52,3 +53,15 @@ h5 {
 h6 {
     font-weight:100;
 }
+#waterfall {
+    font-size:2rem;
+}
+.flex-container {
+    display: -webkit-flex;
+    display: flex;
+    width: 100%;
+}
+.flex-item4 {
+    width: 25%;
+}
+
