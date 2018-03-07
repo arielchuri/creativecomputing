@@ -18,6 +18,11 @@ div{
 .header {
     background:lightgray;
 }
+.hero {
+    height: 400px;
+    background-image: url(bigtrouble.png);
+    padding:0px;
+}
 .footer {
     background:lightgray;
 }
