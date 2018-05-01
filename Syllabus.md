@@ -200,10 +200,10 @@ Option 2: Use the Terminal
 
 
 ### Code Editors:
-    + Textwrangler   
-    + [Brackets - A modern, open source code editor that understands web design.](http://brackets.io/)
-    + [Atom](https://atom.io/)
-    + [Bare Bones Software | BBEdit 11](http://www.barebones.com/products/bbedit/)
++ Textwrangler   
++ [Brackets - A modern, open source code editor that understands web design.](http://brackets.io/)
++ [Atom](https://atom.io/)
++ [Bare Bones Software | BBEdit 11](http://www.barebones.com/products/bbedit/)
 
 ## New School Resources
 
