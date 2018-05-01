@@ -196,29 +196,29 @@ Option 2: Use the Terminal
 - After entering your password you will be in the remote server. *ls* to list the contents of a folder. *cd public_html* to move into that folder.
 - Now create a folder to hold your site by typing _mkdir yourSiteFoler_
 - Move into the folder you created with _cd yourSiteFoler_
-- Now you can use the *put* command. *put -R mySiteFolder. Your site is now online. and available at the http://b.parsons.edu/~yourUserName/yourSiteFolder
+- Now you can use the *put* command. *put -R mySiteFolder. Your site is now online. and available at the http://b.parsons.edu/~yourUserName/yourSiteFolderi*
 
 
 ### Code Editors:
-Textwrangler
-[Brackets - A modern, open source code editor that understands web design.](http://brackets.io/)
-[Atom](https://atom.io/)
-[Bare Bones Software | BBEdit 11](http://www.barebones.com/products/bbedit/)
+    + Textwrangler   
+    + [Brackets - A modern, open source code editor that understands web design.](http://brackets.io/)
+    + [Atom](https://atom.io/)
+    + [Bare Bones Software | BBEdit 11](http://www.barebones.com/products/bbedit/)
 
 ## New School Resources
 
 The university provides many resources to help students achieve academic and artistic excellence. These resources include:
 
-- The University (and associated) Libraries: http://library.newschool.edu
-- The University Learning Center: http://www.newschool.edu/learning-center
+- (The University (and associated) Libraries)[http://library.newschool.edu]
+- (The University Learning Center)[http://www.newschool.edu/learning-center]
 
 For additional help with coursework assigned during the semester, you are encouraged to schedule tutoring sessions at the University Learning Center (ULC). Individual appointments are offered in Writing (all levels), Math, Adobe, Computer Programming, Oral Presentations and Time Management. Sessions are interactive, with both tutor and student participating. Appointments can be scheduled on Starfish or you can stop by for a walk-in session. The ULC is located on the 6th floor of 66 West 12th street. Academic and skill-building workshops are also offered. For a complete list of services, workshops, and general information, visit www.newschool.edu/learning-center.
 
-- [University Disabilities Service](http://www.newschool.edu/student-disability-services/)
+### [University Disabilities Service](http://www.newschool.edu/student-disability-services/)
 
 In keeping with the university’s policy of providing equal access for students with disabilities, any student with a disability who needs academic accommodations is welcome to meet with me privately. All conversations will be kept confidential. Students requesting any accommodations will also need to contact Student Disability Service (SDS). SDS will conduct an intake and, if appropriate, the Director will provide an academic accommodation notification letter for you to bring to me. At that point, I will review the letter with you and discuss these accommodations in relation to this course.
 
-- Making Center
+### Making Center
 
 Faculty who are planning curriculum that makes use of specific resources should contact the Making Center in
 advance to coordinate.
@@ -313,4 +313,4 @@ http://www.newschool.edu/policies/# Resources regarding what plagiarism is and h
 
 The New School views “academic honesty and integrity” as the duty of every member of an academic community to claim authorship for his or her own work and only for that work, and to recognize the contributions of others accurately and completely. This obligation is fundamental to the integrity of intellectual debate, and creative and academic pursuits. Academic honesty and integrity includes accurate use of quotations, as well as appropriate and explicit citation of sources in instances of paraphrasing and describing ideas, or reporting on research findings or any aspect of the work of others (including that of faculty members and other students). Academic dishonesty results from infractions of this “accurate use”. The standards of academic honesty and integrity, and citation of sources, apply to all forms of academic work, including submissions of drafts of final papers or projects. All members of the University community are expected to conduct themselves in accord with the standards of academic honesty and integrity. Please see the complete policy in the Parsons Catalog.
 
-● Intellectual Property Rights: http://www.newschool.edu/policies/#
+● (Intellectual Property Rights)[http://www.newschool.edu/policies/#I]
