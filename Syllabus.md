@@ -124,7 +124,7 @@ Final Project Presentation
 ## Required Reading / Media
 
 
-[How to / Why Make Internet Art](http://netart.rocks)
+[How to / Why Make Internet Art] (http://netart.rocks)
 
 [*What is Code?*, Paul Ford] (http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 
@@ -155,7 +155,7 @@ Final Project Presentation
 
 [GitHub desktop client] (https://desktop.github.com/)
 
-[Git on Lynda.com) (https://www.lynda.com/GitHub-training-tutorials/1384-0.html)
+[Git on Lynda.com] (https://www.lynda.com/GitHub-training-tutorials/1384-0.html)
 
 
 [Special Characters] (http://www.w3schools.com/charsets/ref_utf_latin1_supplement.asp)
