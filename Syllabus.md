@@ -8,8 +8,8 @@ Spring 2018
 
 Ariel Churi churia@newschool.edu   
 
-Class site: [GitHub] (https://github.com/arielchuri/creativecomputing)   
-This file: [Syllabus] (https://github.com/arielchuri/creativecomputing/blob/master/Syllabus.md)   
+Class site: [GitHub](https://github.com/arielchuri/creativecomputing)   
+This file: [Syllabus](https://github.com/arielchuri/creativecomputing/blob/master/Syllabus.md)   
 ASSIGNMENTS ARE ON CANVAS.   
 
 ## Course Description
