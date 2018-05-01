@@ -209,8 +209,8 @@ Option 2: Use the Terminal
 
 The university provides many resources to help students achieve academic and artistic excellence. These resources include:
 
-- (The University and associated Libraries)[http://library.newschool.edu]
-- (The University Learning Center)[http://www.newschool.edu/learning-center]
+- [The University and associated Libraries](http://library.newschool.edu)
+- [The University Learning Center](http://www.newschool.edu/learning-center)
 
 For additional help with coursework assigned during the semester, you are encouraged to schedule tutoring sessions at the University Learning Center (ULC). Individual appointments are offered in Writing (all levels), Math, Adobe, Computer Programming, Oral Presentations and Time Management. Sessions are interactive, with both tutor and student participating. Appointments can be scheduled on Starfish or you can stop by for a walk-in session. The ULC is located on the 6th floor of 66 West 12th street. Academic and skill-building workshops are also offered. For a complete list of services, workshops, and general information, visit www.newschool.edu/learning-center.
 
