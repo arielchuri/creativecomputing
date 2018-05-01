@@ -43,8 +43,8 @@ Html file structure
 Choose your own adventure
 
 **Media:**   
-[*What is Code?*, Paul Ford] (http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)   
-[freeCodeCamp] ( https://www.freecodecamp.org/challenges/say-hello-to-html-elements )   
+[*What is Code?*, Paul Ford](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)   
+[freeCodeCamp](https://www.freecodecamp.org/challenges/say-hello-to-html-elements )   
 
 ### Week 02    
 Cleaning text files   
@@ -113,7 +113,7 @@ Final Project
 
 ### Week 13    
 Final Project   
-Creating VR websites with [A-Frame] (https://aframe.io)   
+Creating VR websites with [A-Frame](https://aframe.io)   
 
 ### Week 14    
 Final Project   
@@ -124,15 +124,15 @@ Final Project Presentation
 ## Required Reading / Media
 
 
-[How to / Why Make Internet Art] (http://netart.rocks)
+[How to / Why Make Internet Art](http://netart.rocks)
 
-[*What is Code?*, Paul Ford] (http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
+[*What is Code?*, Paul Ford](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 
-[*Paragraphs on Conceptual Art*, Sol Lewitt] (https://www.dropbox.com/s/civ8ofgp13opp7v/Paragraphs_on_Conceptual_Art_Sol_LeWitt.pdf?dl=0)
+[*Paragraphs on Conceptual Art*, Sol Lewitt](https://www.dropbox.com/s/civ8ofgp13opp7v/Paragraphs_on_Conceptual_Art_Sol_LeWitt.pdf?dl=0)
 
 [Guide to Website Navigation]( http://sixrevisions.com/user-interface/navigation-design-patterns/)
 
-[Web Design: The First 100 Years, Maciej Cegłowski] (http://idlewords.com/talks/web_design_first_100_years.htm)
+[Web Design: The First 100 Years, Maciej Cegłowski](http://idlewords.com/talks/web_design_first_100_years.htm)
 
 *Toward Aesthetic Guidelines for Paintings with the Aid of a Computer*, Vera Molnar
 
@@ -147,26 +147,26 @@ Final Project Presentation
 
 ## Class Resources
 
-[W3 Schools] (http://www.w3schools.com/)
+[W3 Schools](http://www.w3schools.com/)
 
-[freeCodeCamp] ( https://www.freecodecamp.org/challenges/say-hello-to-html-elements )
+[freeCodeCamp]( https://www.freecodecamp.org/challenges/say-hello-to-html-elements )
 
-[Unix for Mac Users] (https://www.lynda.com/Mac-OS-X-10-6-tutorials/Unix-for-Mac-OS-X-Users/78546-2.html)
+[Unix for Mac Users](https://www.lynda.com/Mac-OS-X-10-6-tutorials/Unix-for-Mac-OS-X-Users/78546-2.html)
 
-[GitHub desktop client] (https://desktop.github.com/)
+[GitHub desktop client](https://desktop.github.com/)
 
-[Git on Lynda.com] (https://www.lynda.com/GitHub-training-tutorials/1384-0.html)
+[Git on Lynda.com](https://www.lynda.com/GitHub-training-tutorials/1384-0.html)
 
 
-[Special Characters] (http://www.w3schools.com/charsets/ref_utf_latin1_supplement.asp)
+[Special Characters](http://www.w3schools.com/charsets/ref_utf_latin1_supplement.asp)
 
-[CSS Tools: Reset CSS] (http://meyerweb.com/eric/tools/css/reset/)
+[CSS Tools: Reset CSS](http://meyerweb.com/eric/tools/css/reset/)
 
-[Javascript Reference] ( https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference )
+[Javascript Reference]( https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference )
 
-[Get Started with the Google Fontns API] (https://developers.google.com/fonts/docs/getting_started)
+[Get Started with the Google Fontns API](https://developers.google.com/fonts/docs/getting_started)
 
-[Introduction to jQuery] (https://www.edx.org/course/introduction-jquery-microsoft-dev208x-3)
+[Introduction to jQuery](https://www.edx.org/course/introduction-jquery-microsoft-dev208x-3)
 
 [Interactivity with JavaScript | Coursera](https://www.coursera.org/learn/javascript#%20)
 
@@ -176,7 +176,7 @@ Final Project Presentation
 
 [Intro to JavaScript | Udacity](https://www.udacity.com/course/intro-to-javascript--ud803)
 
-[A-Frame] (https://aframe.io)   
+[A-Frame](https://aframe.io)   
 
 ### FTP ( File Transfer Protocol )
 You should have received access to a folder on the newschool servers from IT services. If not you will need to get that information from them. Inside this folder (also known as a directory) is another folder named *public_html*. This folder is viewable online at the address you have received.
@@ -201,9 +201,9 @@ Option 2: Use the Terminal
 
 ### Code Editors:
 Textwrangler
-[Brackets - A modern, open source code editor that understands web design.] (http://brackets.io/)
-[Atom] (https://atom.io/)
-[Bare Bones Software | BBEdit 11] (http://www.barebones.com/products/bbedit/)
+[Brackets - A modern, open source code editor that understands web design.](http://brackets.io/)
+[Atom](https://atom.io/)
+[Bare Bones Software | BBEdit 11](http://www.barebones.com/products/bbedit/)
 
 ## New School Resources
 
@@ -214,7 +214,7 @@ The university provides many resources to help students achieve academic and art
 
 For additional help with coursework assigned during the semester, you are encouraged to schedule tutoring sessions at the University Learning Center (ULC). Individual appointments are offered in Writing (all levels), Math, Adobe, Computer Programming, Oral Presentations and Time Management. Sessions are interactive, with both tutor and student participating. Appointments can be scheduled on Starfish or you can stop by for a walk-in session. The ULC is located on the 6th floor of 66 West 12th street. Academic and skill-building workshops are also offered. For a complete list of services, workshops, and general information, visit www.newschool.edu/learning-center.
 
-- [University Disabilities Service] (http://www.newschool.edu/student-disability-services/)
+- [University Disabilities Service](http://www.newschool.edu/student-disability-services/)
 
 In keeping with the university’s policy of providing equal access for students with disabilities, any student with a disability who needs academic accommodations is welcome to meet with me privately. All conversations will be kept confidential. Students requesting any accommodations will also need to contact Student Disability Service (SDS). SDS will conduct an intake and, if appropriate, the Director will provide an academic accommodation notification letter for you to bring to me. At that point, I will review the letter with you and discuss these accommodations in relation to this course.
 
@@ -229,7 +229,7 @@ support woodworking, metalworking, ceramics and pottery work, photography and fi
 and maintain the different shops and labs. Safety is a primary concern, so each area has policies for access,
 training, and etiquette that students and faculty should be familiar with. Many areas require specific
 orientations or trainings before access is granted. Detailed information about the resources available, as well as
-schedules, trainings, and policies can be found at [resources.parsons.edu] (http://resources.parsons.edu).
+schedules, trainings, and policies can be found at [resources.parsons.edu](http://resources.parsons.edu).
 
 ## Grading Standards
 
