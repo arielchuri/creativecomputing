@@ -113,6 +113,7 @@ Final Project
 
 ### Week 13    
 Final Project   
+Creating VR websites with [A-Frame] (https://aframe.io)   
 
 ### Week 14    
 Final Project   
@@ -174,6 +175,8 @@ Final Project Presentation
 [Full Stack Web and Multiplatform Mobile App Development | Coursera](https://www.coursera.org/specializations/full-stack-mobile-app-development)
 
 [Intro to JavaScript | Udacity](https://www.udacity.com/course/intro-to-javascript--ud803)
+
+[A-Frame] (https://aframe.io)   
 
 ### FTP ( File Transfer Protocol )
 You should have received access to a folder on the newschool servers from IT services. If not you will need to get that information from them. Inside this folder (also known as a directory) is another folder named *public_html*. This folder is viewable online at the address you have received.
